@@ -9,9 +9,8 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">Hello Everyone</h2>
-      <h3 class="text-center">My Name is Ife Oshinowo your new DevOps Master</h3>
-      <p class="text-center">DCP - July 2023 Batch - GITHUB WEBHOOK Demo...</p>
+      <h2 class="text-center">Hello Everyone, My Name is Ife Oshinowo your new DevOps Master.</h2>
+      <p class="text-center">DCP - July2023 Batch - GITHUB WEBHOOK Demo...</p>
   </div>
 </body>
 </html>
