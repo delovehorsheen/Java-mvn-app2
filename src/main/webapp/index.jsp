@@ -10,7 +10,8 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
-      <p class="text-center">DCP - July Batch - GITHUB WEBHOOK Demo...</p>
+      <h3 class="text-center">My Name is Ife Oshinowo your new DevOps Master</h3>
+      <p class="text-center">DCP - July 2023 Batch - GITHUB WEBHOOK Demo...</p>
   </div>
 </body>
 </html>
